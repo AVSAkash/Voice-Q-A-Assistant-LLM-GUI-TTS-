@@ -1,0 +1,4 @@
+httpx
+pyttsx3
+SpeechRecognition
+pyaudio
