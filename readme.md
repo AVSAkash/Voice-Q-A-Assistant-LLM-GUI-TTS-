@@ -73,7 +73,4 @@ voice-qa-assistant/
 - Tested on Windows with Python 3.12.
 - Works without a GPU.
 
-## License
-
-MIT License
 
